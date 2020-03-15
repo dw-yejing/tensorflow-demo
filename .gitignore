@@ -1,0 +1,17 @@
+### Idea ###
+.idea/
+
+### VS Code ###
+.vscode/
+
+### py cache ###
+__pycache__/
+
+### virtual environment ###
+venv/
+
+### logs ###
+logs/
+
+### ckpt ###
+ckpt/
